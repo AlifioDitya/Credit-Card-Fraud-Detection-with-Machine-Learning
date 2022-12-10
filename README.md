@@ -14,12 +14,12 @@ transactions and evaluating its performance in comparison to a
 single decision tree model.
 
 ## Contents
-I. Introduction
-II. Fundamental Theory
-III. Analysis
-IV. Implementation
-V. Conclusion
-VI. Acknowledgement
+1. Introduction
+2. Fundamental Theory
+3. Analysis
+4. Implementation
+5. Conclusion
+6. Acknowledgement
 
 ## Dataset
 The dataset for this project can be downloaded on the link below:
