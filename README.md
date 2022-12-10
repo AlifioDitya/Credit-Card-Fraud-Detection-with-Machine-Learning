@@ -35,7 +35,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
     $ cd Credit-Card-Fraud-Detection-with-Machine-Learning
     ```
 3. Download dataset `creditcard.csv` from the link provided above into the src directory 
-4. Run `main.py` on Jupyter Notebook
+4. Run `main.ipynb` on Jupyter Notebook
 
 ## Made with
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
