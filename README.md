@@ -13,7 +13,7 @@ the random forest model to make predictions on fraudulent
 transactions and evaluating its performance in comparison to a 
 single decision tree model.
 
-## Contents
+## Contents of Paper
 1. Introduction
 2. Fundamental Theory
 3. Analysis
@@ -22,5 +22,16 @@ single decision tree model.
 6. Acknowledgement
 
 ## Dataset
-The dataset for this project can be downloaded on the link below:
+The dataset for this project can be downloaded on the following link:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+
+## How to Run
+1. Download dataset `creditcard.csv` from the link provided above.
+2. Clone repository
+    ''' bash
+      $ git clone https://github.com/AlifioDitya/Credit-Card-Fraud-Detection-with-Machine-Learning.git
+    '''
+3. Run `main.py` on Jupyter Notebook
+
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+    
