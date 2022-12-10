@@ -28,9 +28,9 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 ## How to Run
 1. Download dataset `creditcard.csv` from the link provided above.
 2. Clone repository
-    ''' bash
+    ``` bash
       $ git clone https://github.com/AlifioDitya/Credit-Card-Fraud-Detection-with-Machine-Learning.git
-    '''
+    ```
 3. Run `main.py` on Jupyter Notebook
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
