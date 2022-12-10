@@ -31,7 +31,12 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
     ``` bash
       $ git clone https://github.com/AlifioDitya/Credit-Card-Fraud-Detection-with-Machine-Learning.git
     ```
-3. Run `main.py` on Jupyter Notebook
+3. Change directory to the repository
+    ``` bash
+        $ cd Credit-Card-Fraud-Detection-with-Machine-Learning
+    ```
+5. Run `main.py` on Jupyter Notebook
 
+## Made with
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
     
